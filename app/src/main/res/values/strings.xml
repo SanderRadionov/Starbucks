@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="options">
+    <item>Drinks</item>
+    <item>Food</item>
+    <item>Cafes</item>
+    </string-array>
+
+    <string name="app_name">Starbucks</string>
+
+</resources>
+
+
